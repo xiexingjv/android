@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+
+var app = require('../app');
+var http = require('http');
+app.set('port', '3000');
+var server = http.createServer(app);
+
+const mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost:27017/test0', function (err) {
+    console.log("success");
+    server.listen('3000');
+})
+
+
+
+
+

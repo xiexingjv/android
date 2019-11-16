@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">photo album</string>
+
+
+    <string name="cd_app_icon">App icon</string>
+    <string name="cd_android_icon">Android icon</string>
+    <string name="cd_movie_icon">Movie icon</string>
+    <string name="cd_cloud_crossed">Cloud crossed icon</string>
+    <string name="cd_arrow_icon">Arrow icon</string>
+    <string name="cd_currency_icon">Currency icon</string>
+    <string name="failed_load">Failed to load, tap to try again.</string>
+    <string name="more">MORE</string>
+    <string name="see_more">See more..</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

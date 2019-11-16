@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_items">
+        <item>上传照片</item>
+        <item>人脸库</item>
+    </string-array>
+
+    <string-array name="upload_items">
+        <item>返回</item>
+        <item>继续上传</item>
+    </string-array>
+
+    <string-array name="group_detail_items">
+        <item>上传人脸</item>
+    </string-array>
+</resources>
